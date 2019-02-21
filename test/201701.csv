@@ -1,0 +1,9 @@
+Name,date,amount,product,result
+Kang,2017-01-01,500,apple,confirmed
+Kim,2017-01-03,700,banana,confirmed
+Choi,2017-01-05,800,apple,confirmed
+Park,2017-01-07,500,cereal,canceled
+Kang,2017-01-08,1200,kiwi,confirmed
+Choi,2017-01-09,100,melon,confirmed
+Lee,2017-01-09,700,banana,confirmed
+Yoon,2017-01-10,200,cereal,canceled
